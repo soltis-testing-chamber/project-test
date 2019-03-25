@@ -1,1 +1,3 @@
-# project-test
+# Project Charter
+
+Scope, Goals, Members, Objectives
